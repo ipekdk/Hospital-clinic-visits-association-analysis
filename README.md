@@ -3,14 +3,10 @@ This repository includes R code files of Chapter "Using Data Mining Techniques f
 
 Explanation of Code files:
 
-Frequent itemset mining and associatin analysis: association_analysis.R
-
-Rule visualisation: rule_vis.R
+Frequent itemset mining and association analysis: hospital_association_analysis.R
 
 Small data set in excel format: hospitaldata_small.xlsx
 
 Small data set in R format: hospitaldata_small.RData
-
-Results for small data set in excel format: results.xlsx
 
 Results for small data set in R format: results.RData
